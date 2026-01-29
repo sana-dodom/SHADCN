@@ -3,6 +3,13 @@ import { DataTable } from "./data-table";
 
 const getData = async (): Promise<Payment[]> => {
   return [
+     {
+      id: "728ed324",
+      amount: 345,
+      status: "pending",
+      username: "Mohsine El Mernissi",
+      email: "elmernissi@gmail.com",
+    },
     {
       id: "728ed521",
       amount: 1349999,
