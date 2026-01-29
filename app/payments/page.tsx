@@ -12,7 +12,7 @@ const getData = async (): Promise<Payment[]> => {
     },
     {
       id: "728ed521",
-      amount: 1349999,
+      amount: 134,
       status: "pending",
       username: "John Doe",
       email: "johndoe@gmail.com",
